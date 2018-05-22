@@ -7,7 +7,7 @@
     "repositories": [
         {
             "type":"git",
-            "url": "https://github.com/dezio/bootforms.git",
+            "url": "https://github.com/dezio/bootforms.git"
         }
     ],
     "require": {
